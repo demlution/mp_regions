@@ -1,6 +1,6 @@
 {
   "name": "mp_regions",
-  "version": "1.0.0",
+  "version": "1.03.2011120",
   "description": "微信小程序国家行政区划数据",
   "main": "index.js",
   "scripts": {
