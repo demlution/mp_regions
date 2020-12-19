@@ -36,5 +36,8 @@ rules:
   key-spacing: error
   keyword-spacing: error
   prefer-const: error
+  comma-dangle:
+    - error
+    - always-multiline
 globals:
   Array: true
