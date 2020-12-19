@@ -1,0 +1,26 @@
+{
+  "name": "mp_regions",
+  "version": "1.0.0",
+  "description": "微信小程序国家行政区划数据",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demlution/mp_regions.git"
+  },
+  "keywords": [
+    "mp"
+  ],
+  "author": "Sy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demlution/mp_regions/issues"
+  },
+  "homepage": "https://github.com/demlution/mp_regions#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.16.0"
+  }
+}
